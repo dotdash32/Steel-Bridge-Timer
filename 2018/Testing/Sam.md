@@ -2,7 +2,7 @@
 
 
 
-|### Below are the splits and times
+### Below are the splits and times
 
-Date|Time|Temp Bridge|nutters|Total Time|Notes|
+|Date|Time|Temp Bridge|nutters|Total Time|Notes|
 |---|---|---|---|---|---|
