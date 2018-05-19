@@ -1,4 +1,11 @@
 # Twiddle Dum Splits 
 
- |Date|Time|Temp Bridge|Deck 2B|Deck 4B|Notes|
-|---|---|---|---|---|---|
+Two 
+line
+
+memerz
+
+|### Below are the splits and times
+
+Date|Time|Temp Bridge|Deck 2B|Deck 4B|Total Time|Notes|
+|---|---|---|---|---|---|---|
