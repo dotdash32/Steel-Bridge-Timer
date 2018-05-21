@@ -9,3 +9,5 @@
 *.pdf -crlf -diff -merge
 *.jpg -crlf -diff -merge
 *.png -crlf -diff -merge
+
+git lfs track "*.app"
