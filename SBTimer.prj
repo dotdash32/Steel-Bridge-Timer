@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="1228076527" file="/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SteelBridgeTimer/SBTimer.prj" location="/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SteelBridgeTimer" name="SBTimer" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="666178378" file="/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SteelBridgeTimer/SBTimer.prj" location="/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SteelBridgeTimer" name="SBTimer" target="target.mlapps" target-name="Package App">
     <param.appname>SBTimer</param.appname>
     <param.authnamewatermark>Josh DeWitt</param.authnamewatermark>
     <param.email>jdewitt@berkeley.edu</param.email>
@@ -14,7 +14,7 @@
     <param.products.id />
     <param.products.version />
     <param.platforms />
-    <param.output>${PROJECT_ROOT}/Distro</param.output>
+    <param.output>/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SBTimerDistros</param.output>
     <param.guid>329a1bb0-b51a-4517-8d58-53215cd44d3d</param.guid>
     <unset>
       <param.company />
@@ -33,7 +33,7 @@
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SteelBridgeTimer" name="Distro" optional="false">/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SteelBridgeTimer/Distro</file>
+      <file location="/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans" name="SBTimerDistros" optional="false">/Users/Josh/Documents/Berkeley Classes and Clubs/MatLab Shenigans/SBTimerDistros</file>
     </build-deliverables>
     <workflow />
     <matlab>
