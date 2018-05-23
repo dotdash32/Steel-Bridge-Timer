@@ -10,7 +10,7 @@
 *.jpg -crlf -diff -merge
 *.png -crlf -diff -merge
 
-git lfs track "*.app"
-git lfs track "*.zip"
-git lfs track *.app
-git lfs track *.zip
+#git lfs track "*.app"
+#git lfs track "*.zip"
+#git lfs track *.app
+#git lfs track *.zip
